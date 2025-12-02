@@ -14,7 +14,8 @@ Pitchify is a free-to-use software that allows you to change the pitch of any so
 
 1. Install [Python 3.8 or above](https://www.python.org/downloads/)
 2. Install the [PySide6 Package](https://pypi.org/project/PySide6/) via `pip install PySide6`
-3. Run the app from terminal using `py main.py`
+3. Install the `httpx` package
+4. Run the app from terminal using `py main.py`
 ## Roadmap
 
 - Support more Audio types
